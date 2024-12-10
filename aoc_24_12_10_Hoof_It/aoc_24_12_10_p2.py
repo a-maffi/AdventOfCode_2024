@@ -34,23 +34,19 @@ def recursive(matrix,start,finish,finish_list):
     #right
     next = (finish[0],finish[1]+1)
     if recursive(matrix,finish,next,finish_list):
-        if next not in finish_list:
-            finish_list.append(next)
+        finish_list.append(next)
     #left
     next = (finish[0],finish[1]-1)
     if recursive(matrix,finish,next,finish_list):
-        if next not in finish_list:
-            finish_list.append(next)
+        finish_list.append(next)
     #up
     next = (finish[0]-1,finish[1])
     if recursive(matrix,finish,next,finish_list):
-        if next not in finish_list:
-            finish_list.append(next)
+        finish_list.append(next)
     #down
     next = (finish[0]+1,finish[1])
     if recursive(matrix,finish,next,finish_list):
-        if next not in finish_list:
-            finish_list.append(next)
+        finish_list.append(next)
     
     return False
 
