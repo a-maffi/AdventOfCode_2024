@@ -1,0 +1,6 @@
+./aoc_24_12_11/bin/
+./aoc_24_12_11/obj/
+.vs/
+*.user
+*.suo
+*.log

@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\bin\Debug\net8.0\aoc_24_12_11.exe
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\bin\Debug\net8.0\aoc_24_12_11.deps.json
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\bin\Debug\net8.0\aoc_24_12_11.runtimeconfig.json
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\bin\Debug\net8.0\aoc_24_12_11.dll
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\bin\Debug\net8.0\aoc_24_12_11.pdb
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.AssemblyInfo.cs
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.sourcelink.json
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.dll
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\refint\aoc_24_12_11.dll
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.pdb
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\aoc_24_12_11.genruntimeconfig.cache
+C:\Users\andre\Desktop\advent_of_code_2024\aoc_24_12_11_Plutonian_Pebbles\aoc_24_12_11\obj\Debug\net8.0\ref\aoc_24_12_11.dll
