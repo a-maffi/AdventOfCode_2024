@@ -1,5 +1,5 @@
-./aoc_24_12_11/bin/
-./aoc_24_12_11/obj/
+bin/
+obj/
 .vs/
 *.user
 *.suo
