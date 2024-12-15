@@ -1,4 +1,4 @@
-const string filePath = ".\\input.txt"; //very bad
+const string filePath = "..\\..\\..\\input.txt"; //very bad
 const int Number_of_blink=75;
 
 string content = File.ReadAllText(filePath);
