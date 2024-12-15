@@ -1,8 +1,4 @@
-﻿using System.ComponentModel;
-using System.Data;
-using System.Runtime.CompilerServices;
-
-public class WareHouse{
+﻿public class WareHouse{
 
     private int length;
     private int height;
